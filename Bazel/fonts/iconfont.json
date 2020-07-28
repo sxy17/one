@@ -1,0 +1,30 @@
+{
+  "id": "1875598",
+  "name": "bazel",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1195418",
+      "name": "书",
+      "font_class": "shu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "8656176",
+      "name": "蜂鸟",
+      "font_class": "fengniao",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "14178996",
+      "name": "早鸟",
+      "font_class": "zaoniao",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    }
+  ]
+}
